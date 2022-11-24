@@ -1,0 +1,2 @@
+Tasks to do:
+Github, Signup API, Userdata Schema
