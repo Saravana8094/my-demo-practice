@@ -1,2 +1,7 @@
 Tasks to do:
-Github, Signup API, Userdata Schema
+Github, Signup API, Userdata Schema, Login API
+
+Userdata Schema: Promise, Array (Cart)
+Signup API: Encryption
+Login API: Refer Amazon and other shopping websites
+Github: Successful checkout required
